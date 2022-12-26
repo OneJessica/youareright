@@ -1,2 +1,2 @@
 # Liber
-A tool for finding, looking up books.
+A tool for finding and looking up books.
