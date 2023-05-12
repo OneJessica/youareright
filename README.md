@@ -8,3 +8,6 @@ cd youareright
 
 streamlit run youareright.py
 ```
+### note
+
+This app depending on the api of https://github.com/OneJessica/qa.collection.git
