@@ -1,5 +1,5 @@
-# Liber
-A tool for finding and looking up books.
+# YAR
+A tool for examination.
 ## Usage
 ```
 git clone https://github.com/OneJessica/youareright.git
